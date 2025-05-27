@@ -1,0 +1,13 @@
+../Core/Src/main.c:20:5:_write	1
+../Core/Src/main.c:25:6:SSD1306_TestPattern	3
+../Core/Src/main.c:33:6:SSD1306_TestPage7	3
+../Core/Src/main.c:43:6:I2C_SCAN	3
+../Core/Src/main.c:111:6:drawCharGFXfont	6
+../Core/Src/main.c:145:6:SSD1306_PutCustomChar7x10	4
+../Core/Src/main.c:157:6:SSD1306_UpdateRegion	6
+../Core/Src/main.c:177:5:main	3
+../Core/Src/main.c:313:6:SystemClock_Config	3
+../Core/Src/main.c:356:13:MX_I2C1_Init	2
+../Core/Src/main.c:371:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:399:13:MX_GPIO_Init	1
+../Core/Src/main.c:422:6:Error_Handler	1
